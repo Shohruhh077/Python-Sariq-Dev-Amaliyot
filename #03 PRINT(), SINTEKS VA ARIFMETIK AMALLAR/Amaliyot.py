@@ -20,5 +20,6 @@ print("Tomonlari 125 ga teng bo`lgan kvadratning yuzi ", 125**2, " ga, perimetri
 
 # Diametri 12 ga teng bo'lgan doiraning yuzini toping  (pi=3.14 deb oling)
 print("Diametri 12 ga teng bo`lgan doiraning yuzi ", 3.14*(12/2)**2, " ga teng")
+
 # Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini toping (Pifagor teoremasidan foydalaning)
 print("Katetlari 6 va 7 bo'lgan to'g'ri burchakli uchburchakning gipotenuzasini ", (6**2+7**2)**(1/2), " ga teng")
