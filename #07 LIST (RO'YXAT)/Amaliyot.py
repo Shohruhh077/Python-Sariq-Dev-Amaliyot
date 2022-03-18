@@ -20,7 +20,7 @@ print("Qalesan " + ismlar[-1].title() + ' bugun ' + ismlar[0].title() +
 # sonlar deb nomlangan ro'yxat yarating va ichiga turli sonlarni yuklang (musbat, manfiy, butun, o'nlik).
 sonlar = [14, -12, 55, 17.5]
 
-uqoridagi ro'yxatdagi sonlar ustida turli arifmetik amallar bajarib ko'ring. Ro'yxatdagi ba'zi sonlarning qiymatini o'zgartiring, ba'zilarini esa almashtiring.
+# yuqoridagi ro'yxatdagi sonlar ustida turli arifmetik amallar bajarib ko'ring. Ro'yxatdagi ba'zi sonlarning qiymatini o'zgartiring, ba'zilarini esa almashtiring.
 qushish = sonlar[0] + sonlar[1]
 print(qushish)
 ayirish = sonlar[0] - sonlar[2]

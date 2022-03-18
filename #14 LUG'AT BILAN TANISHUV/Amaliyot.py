@@ -113,6 +113,3 @@ if nom.lower() in lugat :
     print(f"{nom}-{lugat[nom].capitalize()}")
 else :
     print("Lug`atimizda bunday so`z mavjud emas")
-
-
-
